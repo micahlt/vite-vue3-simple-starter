@@ -8,12 +8,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.25",
-    "vue-router": "^4.0.14"
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.2"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^2.3.1",
-    "unplugin-vue-components": "^0.19.3",
-    "vite": "^2.9.5"
+    "@vitejs/plugin-vue": "^3.0.1",
+    "unplugin-vue-components": "^0.21.1",
+    "vite": "^3.0.2"
   }
 }
